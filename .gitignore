@@ -1,0 +1,7 @@
+.idea
+gen
+out
+bin
+*.iml
+.classpath
+.project
